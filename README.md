@@ -7,8 +7,8 @@ OSCONF is a platform built to connect & bring all leading Meetup communities, Cl
  
 ## Upcoming Events
 
-[OSCONF 2020 Pune]()
+[OSCONF 2020 Pune](https://github.com/collabnix/osconf/blob/master/2020/pune/slides/README.md)
 
 # Past Events
 
-[OSCONF 2020 Bengaluru]()
+[OSCONF 2020 Bangalore](https://github.com/collabnix/osconf/blob/master/2020/bangalore/slides/README.md)
