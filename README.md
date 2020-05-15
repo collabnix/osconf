@@ -1,4 +1,4 @@
-# Open Source Community Conference (OSCONF) 
+# [Open Source Community Conference (OSCONF)](https://osconf.collabnix.com)
 
 OSCONF is a platform built to connect & bring all leading Meetup communities, Cloud native experts, Evangelists & DevOps together under one roof. It is a non-profit community event which allows you to interact with community leaders, ambassadors & open community contributors.
 
