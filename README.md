@@ -3,7 +3,7 @@
 OSCONF is a platform built to connect & bring all leading Meetup communities, Cloud native experts, Evangelists & DevOps together under one roof. It is a non-profit community event which allows you to interact with community leaders, ambassadors & open community contributors.
 
 
- ![My Image](https://github.com/collabnix/osconf-README.md/blob/master/images/osconf.png)
+ ![My Image](https://github.com/collabnix/osconf/blob/master/images/img-20200524-wa0016.jpg)
  
 ## Events
 
