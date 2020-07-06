@@ -23,7 +23,5 @@
 
 
 ![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.51%20PM.png)
-![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.26.08%20PM.png)
-![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.56%20PM.png)
-![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.51%20PM.png)
-![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.39%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.26.29%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.22.16%20PM.png)
