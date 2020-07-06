@@ -22,6 +22,6 @@
 | Kubezilla - Building a largest Kubernetes Community Cluster       | [Slides]()                                                                            | [YouTube](https://www.youtube.com/watch?v=z1BC5almuCo&t=13s)     |
 
 
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.22.16%20PM.png)
 ![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.51%20PM.png)
 ![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.26.29%20PM.png)
-![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.22.16%20PM.png)
