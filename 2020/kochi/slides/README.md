@@ -20,3 +20,10 @@
 | Tinkerbell : An Automated Bare Metal Provisioning Engine      | [Slides]()                                                                            | [YouTube](https://www.youtube.com/watch?v=Kibls6914Uk&t=2s)|
 | OpenSource DBaaS with Kubernetes                              | [Slides]()            |[YouTube](https://www.youtube.com/watch?v=QBxUuLWjiVo&t=32s)|                                                                                
 | Kubezilla - Building a largest Kubernetes Community Cluster       | [Slides]()                                                                            | [YouTube](https://www.youtube.com/watch?v=z1BC5almuCo&t=13s)     |
+
+
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.51%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.26.08%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.56%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.51%20PM.png)
+![MyImage](https://github.com/collabnix/osconf/blob/master/images/kochi/Screen%20Shot%202020-06-27%20at%203.25.39%20PM.png)
