@@ -2,6 +2,8 @@
 # OSCONF 2020 Kochi Conference
 
 ### Venue: Online Virtual Event
+### Date: 27 June 2020
+### Speaker Lists:  https://osconf-kochi.collabnix.com
 
 
 ### Slides:
