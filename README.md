@@ -7,6 +7,7 @@ OSCONF is a platform built to connect & bring all leading Meetup communities, Cl
  
 ## Events
 
+OSCONF 2020 Hyderabad - |[Slides](https://github.com/collabnix/osconf/blob/master/2020/hyderabad/slides/README.md) | [Watch](https://www.youtube.com/watch?v=GtAouGq_7zQ&t=4572s) | [Chat]() | [Speakers](https://osconfhyd.collabnix.com)| <br>
 OSCONF 2020 Kochi - |[Slides](https://github.com/collabnix/osconf/blob/master/2020/kochi/slides/README.md) | [Watch](https://www.youtube.com/watch?v=FCowKouwCE0) | [Chat]() | [Speakers](https://osconf-kochi.collabnix.com)| <br>
 OSCONF 2020 Pune - |[Slides](https://github.com/collabnix/osconf/blob/master/2020/pune/slides/README.md) | [Watch](https://www.youtube.com/watch?v=uHCyNTHZhKk) | [Chat]() | [Speakers](https://osconf.collabnix.com) | <br>
 OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/master/2020/bangalore/slides/README.md)
