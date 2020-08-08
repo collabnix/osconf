@@ -2,15 +2,9 @@
 
 
 
-Sr No
-Speaker Name
-Timing
-Topic
-Moderator #1
-(Chat window)
-Moderator #2
-(Chat window)
+Sr No | Speaker Name | Timing | Topic | Moderator #1(Chat window) | Moderator #2(Chat Window) <br>
 
+1 | Ajeet Singh Raina | 09:00 - 9:10 | Keynote | None | None
 
 Start
 8:30
@@ -19,21 +13,6 @@ Videos Start
 
 
 
-
-
-
-
-09:00
-Kick-Off
-
-
-
-
-
-
-Ajeet Singh Raina
-09:05: 9:15
-Keynote
 
 
 
