@@ -17,7 +17,7 @@ OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/mast
 
 ## Resources
 
-- [OSCONF Page template]()
+- [OSCONF Page template](https://github.com/collabnix/osconf/blob/master/templates/docs/for-meetup.md)
 - [Speakers & Topics Template]()
 - [Kahoot! Game Template]()
 - [Website Design Template]()
