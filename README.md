@@ -14,3 +14,12 @@ OSCONF 2020 Kochi - |[Slides](https://github.com/collabnix/osconf/blob/master/20
 OSCONF 2020 Pune - |[Slides](https://github.com/collabnix/osconf/blob/master/2020/pune/slides/README.md) | [Watch](https://www.youtube.com/watch?v=uHCyNTHZhKk) | [Chat]() | [Speakers](https://osconf.collabnix.com) | <br>
 OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/master/2020/bangalore/slides/README.md)
 | [Watch](https://www.youtube.com/watch?v=CDcj_2Ip_-U&t=10s) | [Chat]() | [Speakers](https://osconf.collabnix.com) |
+
+## Resources
+
+- [OSCONF Page template]()
+- [Speakers & Topics Template]()
+- [Kahoot! Game Template]()
+- [Website Design Template]()
+- [GITHUB Repository]()
+- [Code of Conduct]()
