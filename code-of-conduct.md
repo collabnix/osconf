@@ -7,7 +7,7 @@ positive experience for everyone. When you participate in an event hosted by the
 accountable to each other.
 
 The Collabnix Community has established this Code of Conduct to provide guidelines to Participants and to ensure that all Participants understand what behavior 
-is expected, and what behavior will not be tolerated at an MRC event. The OSCONF expects all Participants to abide by this Code of Conduct at all events. This includes conference-related social events at off-site locations, and in related online communities and social media.
+is expected, and what behavior will not be tolerated at an OSCONF event. The OSCONF expects all Participants to abide by this Code of Conduct at all events. This includes conference-related social events at off-site locations, and in related online communities and social media.
 
 The OSCONF is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation,
 disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Participants asked to stop 
