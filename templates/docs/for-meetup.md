@@ -2,7 +2,9 @@
 
 
 This template is for publishing about this event on your community Meetup pages.
-<pre>
+
+******* COPY BELOW THIS LINE ************
+
 About OSCONF: 
 
 An Open Source Community Conference (OSCONF) Jaipur 2020 - An Online Virtual Meetup Event is a platform to connect & bring all leading tech communities, Cloud native experts, Evangelists, DevOps & Developers together under one roof. It is a chateau of tech geeks.
@@ -26,4 +28,4 @@ Time: 9 AM to 4:30 PM IST
 
 Community Partners:
 Docker Jaipur User Group - Meetup URL, POC - Sanchit Balchandani
-</pre>
+
