@@ -19,7 +19,7 @@ OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/mast
 
 - [OSCONF Page template](https://github.com/collabnix/osconf/blob/master/templates/docs/for-meetup.md)
 - [Speakers & Topics Template]()
-- [Kahoot! Game Template]()
+- [Kahoot! Game Template](https://github.com/collabnix/osconf/blob/master/templates/docs/for-kahoot.md)
 - [Website Design Template]()
 - [GITHUB Repository]()
 - [Code of Conduct]()
