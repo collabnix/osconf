@@ -25,22 +25,22 @@ is being harassed, or have any other concerns, please contact a member of the OS
 UNACCEPTABLE BEHAVIOR
 Unacceptable behavior from any community member will not be tolerated. Unacceptable behavior includes, but is not limited to:
 
-Intimidating, harassing, abusive, discriminatory, derogatory, or demeaning speech, materials, or conduct by any Participants of the event and related event 
+- Intimidating, harassing, abusive, discriminatory, derogatory, or demeaning speech, materials, or conduct by any Participants of the event and related event 
 activities. Many event venues are shared with members of the public; please be respectful to all patrons of these locations.
-Violence, threats of violence, or violent language directed against another person.
-Sexist, racist, homophobic, transphobic, or otherwise discriminatory jokes and language.
-Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-Inappropriate photography or recording.
-Taking of photos within the event environment for use on social media, without the prior permission of the individuals or owners of the content therein.
-Any boisterous, lewd, or offensive behavior or language, including but not limited to using sexually explicit or offensive language, materials or conduct, or any language, behavior, or content that contains profanity, obscene gestures, or racial, religious, or ethnic slurs.
+- Violence, threats of violence, or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, or otherwise discriminatory jokes and language.
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Taking of photos within the event environment for use on social media, without the prior permission of the individuals or owners of the content therein.
+- Any boisterous, lewd, or offensive behavior or language, including but not limited to using sexually explicit or offensive language, materials or conduct, or any language, behavior, or content that contains profanity, obscene gestures, or racial, religious, or ethnic slurs.
 Failure to obey any rules or regulations of the event venue.
 
 CONSEQUENCES OF UNACCEPTABLE BEHAVIOR
-Unacceptable behavior will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a Participant engages in unacceptable behavior, the MRC may take any action it deems appropriate, including warning or expelling the offender from the event with no refund. For more egregious behavior, the MRC may, in its reasonable discretion, temporarily ban or permanently expel a Participant from the community.
+Unacceptable behavior will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a Participant engages in unacceptable behavior, the Collabnix community may take any action it deems appropriate, including warning or expelling the offender from the event with no refund. For more egregious behavior, the Collabnix community may, in its reasonable discretion, temporarily ban or permanently expel a Participant from the community.
 
 
 WHAT TO DO IF YOU WITNESS OR ARE SUBJECTED TO UNACCEPTABLE BEHAVIOR
-If you are subjected to unacceptable behavior, notice that someone else is being subjected to unacceptable behavior, or have any other concerns, please notify MRC event staff or contact the MRC CEO as soon as possible. MRC event staff will be available to assist those experiencing unacceptable behavior to feel safe for the duration of the event. All reports will remain completely confidential.
+If you are subjected to unacceptable behavior, notice that someone else is being subjected to unacceptable behavior, or have any other concerns, please notify Collabnix event staff or contact the Collabnix founder as soon as possible. Collabnix Slack community event staff will be available to assist those experiencing unacceptable behavior to feel safe for the duration of the event. All reports will remain completely confidential.
 
 
 ATTRIBUTION
