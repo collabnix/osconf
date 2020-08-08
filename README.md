@@ -15,7 +15,7 @@ OSCONF 2020 Pune - |[Slides](https://github.com/collabnix/osconf/blob/master/202
 OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/master/2020/bangalore/slides/README.md)
 | [Watch](https://www.youtube.com/watch?v=CDcj_2Ip_-U&t=10s) | [Chat]() | [Speakers](https://osconf.collabnix.com) |
 
-## Resources
+## Resources/Useful Documents
 
 - [OSCONF Page template](https://github.com/collabnix/osconf/blob/master/templates/docs/for-meetup.md)
 - [Speakers & Topics Template]()
@@ -23,3 +23,9 @@ OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/mast
 - [Website Design Template]()
 - [GITHUB Repository]()
 - [Code of Conduct]()
+
+## Tools
+
+- [Papercall](papercall.io)
+- [Kahoot!](https://www.kahoot.it)
+
