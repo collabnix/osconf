@@ -6,9 +6,6 @@ Sr No | Speaker Name | Timing | Topic | Moderator #1(Chat window) | Moderator #2
 
 1 | Ajeet Singh Raina | 09:00 - 9:10 | Keynote | None | None
 
-Start
-8:30
-Videos Start
 
 
 
