@@ -8,6 +8,6 @@
 
 | Topic        | Presentation          | Video  | 
 | ------------- |:-------------:| -----:| 
-| Welcome & Keynote - Ajeet Singh Raina, Docker Captain)| [Slides](https://www.slideshare.net/ajeetraina) |  | 
+| Welcome & Keynote - Ajeet Singh Raina, Docker Captain)| [Slides](https://www.slideshare.net/ajeetraina/keynote-slides-ajeet-singh-raina-osconf-2020-hyderabad) |  | 
 
 
