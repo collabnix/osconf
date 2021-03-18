@@ -26,6 +26,6 @@ OSCONF 2020 Bangalore - | [Slides](https://github.com/collabnix/osconf/blob/mast
 
 ## Tools
 
-- [Papercall](papercall.io)
+- [Papercall](https://papercall.io)
 - [Kahoot!](https://www.kahoot.it)
 
