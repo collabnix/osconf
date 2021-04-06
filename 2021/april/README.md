@@ -13,7 +13,7 @@
 | ------------- |:-------------:| -----:|
 | Welcome & Keynote - Ajeet Singh Raina, Docker Captain| [Slides]() | [Video]() |
 | Speaker #1| [Slides]() | [Video]() |
-| Speaker #2 [Slides]() | [Video]() |
+| Speaker #2 | [Slides]() | [Video]() |
 | Speaker #3| [Slides]() | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5  [Slides]() | [Video]() |
