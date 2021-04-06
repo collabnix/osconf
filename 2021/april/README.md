@@ -16,3 +16,10 @@
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5| [Slides]() | [Video]() |
 | Speaker #6| [Slides]() | [Video]() |
+| Speaker #7| [Slides]() | [Video]() |
+| Speaker #8| [Slides]() | [Video]() |
+| Speaker #9| [Slides]() | [Video]() |
+| Speaker #10| [Slides]() | [Video]() |
+| Speaker #11| [Slides]() | [Video]() |
+| Speaker #12| [Slides]() | [Video]() |
+| Speaker #13| [Slides]() | [Video]() |
