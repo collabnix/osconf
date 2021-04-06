@@ -1,11 +1,9 @@
 # OSCONF 2021 Conference
 
-## Date: 10 April 
-
+### Date: 10 April 
 ### Venue: Online Virtual Event
-
-## YouTube URL: https://www.youtube.com/watch?v=Eo-wsdrtn-E
-
+### Site URL: https://osconf2021.collabnix.com
+### YouTube URL: https://www.youtube.com/watch?v=Eo-wsdrtn-E
 ### Slides:
 
 
