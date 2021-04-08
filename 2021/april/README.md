@@ -22,4 +22,4 @@
 | Speaker #10| [Slides]() | [Video]() |
 | Speaker #11| [Slides]() | [Video]() |
 | Speaker #12| [Slides]() | [Video]() |
-| Speaker #13| [Slides]() | [Video]() |
+| Chaos Engineering 101 - Prashanto Priyanshu, Preksha Jain| [Slides](https://drive.google.com/file/d/1vdbQd40x2RLbCPcRtfKkjmszizGe61wq/view?usp=sharing) | [Video]() |
