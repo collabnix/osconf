@@ -12,7 +12,7 @@
 | Welcome & Keynote - Ajeet Singh Raina, Docker Captain| [Slides]() | [Video]() |
 | Speaker #1| [Slides]() | [Video]() |
 | Speaker #2| [Slides]() | [Video]() |
-| Driving Zero Trust Policy in Kubernetes| [Slides](https://drive.google.com/file/d/1TBOlXEv4NuMdWXk1Q_b1fEPHEvhmgbmn/view?usp=sharing) | [Video]() |
+| Driving Zero Trust Policy in Kubernetes - Rajdeep Bhattacharya| [Slides](https://drive.google.com/file/d/1TBOlXEv4NuMdWXk1Q_b1fEPHEvhmgbmn/view?usp=sharing) | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5| [Slides]() | [Video]() |
 | Speaker #6| [Slides]() | [Video]() |
