@@ -15,7 +15,7 @@
 | Speaker #3| [Slides]() | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5| [Slides]() | [Video]() |
-| Speaker #6| [Slides]() | [Video]() |
+| GitOps & ArgoCD - Aditya Soni | [Slides]( https://drive.google.com/file/d/1XjXt8GAxzMT2iTexO9WUftUNyFNZehHN/view?usp=sharing) | [Video]() |
 | Speaker #7| [Slides]() | [Video]() |
 | Speaker #8| [Slides]() | [Video]() |
 | Speaker #9| [Slides]() | [Video]() |
