@@ -12,7 +12,7 @@
 | Welcome & Keynote - Ajeet Singh Raina, Docker Captain| [Slides]() | [Video]() |
 | Speaker #1| [Slides]() | [Video]() |
 | Speaker #2| [Slides]() | [Video]() |
-| Driving Zero Trust Policy in Kubernetes - Rajdeep Bhattacharya| [Slides](https://drive.google.com/file/d/1TBOlXEv4NuMdWXk1Q_b1fEPHEvhmgbmn/view?usp=sharing) | [Video]() |
+| Driving Zero Trust Policy in Kubernetes - Rajdeep Bhattacharya| [Slides](https://docs.google.com/presentation/d/1raqRLTBQmezAoaXg5n1nmva-PpY02HgUbMEVQpKq7Zk/edit#slide=id.p1) | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5| [Slides]() | [Video]() |
 | GitOps & ArgoCD - Aditya Soni | [Slides]( https://drive.google.com/file/d/1XjXt8GAxzMT2iTexO9WUftUNyFNZehHN/view?usp=sharing) | [Video]() |
