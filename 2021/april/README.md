@@ -1,6 +1,6 @@
 # OSCONF 2021 Conference
 
-### Date: 10 April 
+### Date: 10 April
 ### Venue: Online Virtual Event
 ### Site URL: https://osconf2021.collabnix.com
 ### YouTube URL: https://www.youtube.com/watch?v=Eo-wsdrtn-E
@@ -19,7 +19,7 @@
 | Speaker #7| [Slides]() | [Video]() |
 | Speaker #8| [Slides]() | [Video]() |
 | Speaker #9| [Slides]() | [Video]() |
-| Speaker #10| [Slides]() | [Video]() |
+| Zero-downtime deployment on Kubernetes with Hazelcast - Nicolas Fränkel | [Slides](./zerodowntime-rebooted.pdf) | [Video]() |
 | Speaker #11| [Slides]() | [Video]() |
 | Speaker #12| [Slides]() | [Video]() |
 | Chaos Engineering 101 - Prashanto Priyanshu, Preksha Jain| [Slides](https://drive.google.com/file/d/1vdbQd40x2RLbCPcRtfKkjmszizGe61wq/view?usp=sharing) | [Video]() |
