@@ -11,7 +11,7 @@
 | ------------- |:-------------:| -----:|
 | Welcome & Keynote - Ajeet Singh Raina, Docker Captain| [Slides]() | [Video]() |
 | Speaker #1| [Slides]() | [Video]() |
-| Speaker #2| [Slides]() | [Video]() |
+| From "build" to "release" - Let's 'Codify' all the things! - Suman Chakraborty | [Slides](https://drive.google.com/file/d/1fhTHmpPPZB3O7x9f-gH9YosUxJOI8q4c/view?usp=sharing) | [Video]() |
 | Driving Zero Trust Policy in Kubernetes - Rajdeep Bhattacharya| [Slides](https://docs.google.com/presentation/d/1raqRLTBQmezAoaXg5n1nmva-PpY02HgUbMEVQpKq7Zk/edit#slide=id.p1) | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
 | Speaker #5| [Slides]() | [Video]() |
