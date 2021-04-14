@@ -8,7 +8,7 @@ OSCONF is a platform built to connect & bring all leading Meetup communities, Cl
 ## Events
 
 [OSCONF 2021 Global](https://osconf2021.collabnix.com/) - | [Slides](https://github.com/collabnix/osconf/tree/master/2021/april)
-| [Watch](https://www.youtube.com/watch?v=Eo-wsdrtn-E) | [Chat]() | [Speakers](https://osconf2021.collabnix.com) | <br>
+| [Watch](https://www.youtube.com/watch?v=gbJvMcVgPkg) | [Chat]() | [Speakers](https://osconf2021.collabnix.com) | <br>
 [OSCONF 2020 Jaipur](https://osconf-jaipur.collabnix.com/) - | [Slides](https://github.com/collabnix/osconf/tree/master/2020/jaipur)
 | [Watch](https://www.youtube.com/watch?v=RVToPqD5VIA) | [Chat]() | [Speakers](https://osconf.collabnix.com) | <br>
 [OSCONF 2020 Hyderabad](https://osconfhyd.collabnix.com/) - |[Slides](https://github.com/collabnix/osconf/blob/master/2020/hyderabad/README.md) | [Watch](https://www.youtube.com/watch?v=GtAouGq_7zQ&t=4572s) | [Chat]() | [Speakers](https://osconfhyd.collabnix.com)| <br>
