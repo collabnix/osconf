@@ -14,7 +14,7 @@
 | From "build" to "release" - Let's 'Codify' all the things! - Suman Chakraborty | [Slides](https://drive.google.com/file/d/1fhTHmpPPZB3O7x9f-gH9YosUxJOI8q4c/view?usp=sharing) | [Video]() |
 | Driving Zero Trust Policy in Kubernetes - Rajdeep Bhattacharya| [Slides](https://docs.google.com/presentation/d/1raqRLTBQmezAoaXg5n1nmva-PpY02HgUbMEVQpKq7Zk/edit#slide=id.p1) | [Video]() |
 | Speaker #4| [Slides]() | [Video]() |
-| Speaker #5| [Slides]() | [Video]() |
+| Run GitHub Actions Locally with nektos/act and Docker - Gaurav Gahlot, Docker Community Leader | [Slides](https://www.slideshare.net/GauravGahlot1/osconf-april-2021-run-github-actions-locally-with-nektosact-and-docker) | [Video](https://youtu.be/gbJvMcVgPkg?t=14258) |
 | GitOps & ArgoCD - Aditya Soni | [Slides]( https://drive.google.com/file/d/1XjXt8GAxzMT2iTexO9WUftUNyFNZehHN/view?usp=sharing) | [Video]() |
 | Speaker #7| [Slides]() | [Video]() |
 | Speaker #8| [Slides]() | [Video]() |
